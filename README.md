@@ -1,4 +1,4 @@
-# Data-Storage-and-Information-Retrieval
+# Data Storage and Information Retrieval
 
 This is a Python project that performs tokenization, stop word removal, positional indexing, phrase query searching, term frequency-inverse document frequency (TF-IDF) calculation, cosine similarity computation, and document ranking. The project consists of three parts, each of which is described in detail below.
 
