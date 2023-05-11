@@ -51,7 +51,6 @@ To use this project, follow these steps:
 | tread     | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 1  | 1  | 1   |
 | where     | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 1  | 1  | 1   |
 
-### Inverse Document Frequency (IDF)
 
 ### w-tf(1+ log tf) Results
 
