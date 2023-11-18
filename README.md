@@ -148,12 +148,3 @@ To use this project, follow these steps:
 | where    | 0         | 0         | 0         | 0         | 0         | 0         | 0.3252484 | 0.3252484 | 0.3597564 | 0.3597564 |
 
 ---
-
-## Contact
-
-If you have any questions or feedback about the Employment Dashboard, please feel free to contact us:
-
-- Email:
----
-
-© 2022 Data Storage and Information Retrieval. All rights reserved.
